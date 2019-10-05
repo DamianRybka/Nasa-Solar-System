@@ -1,0 +1,19 @@
+.masterhead{
+    height: 100vh;
+    min-height: 500px;
+    background-image: url("http://steve-patterson.com/wp-content/uploads/2016/03/cosmic.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.content {
+    color: white;
+    font-size: 20px;
+}
+
+.content-header {
+    font-family: "Oleo Script", cursive;
+    color: white;
+    font-size: 30px;
+}
